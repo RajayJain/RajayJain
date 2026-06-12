@@ -98,15 +98,6 @@ Here is a look at what I've been building across my 10 repositories:
 
 ---
 
-### 📊 Skill Distribution & Ecosystem
-
-<p align="center">
-  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=RajayJain&show_icons=true&theme=tokyonight&count_private=true&height=195" alt="Rajay's GitHub Stats" width="46%" />
-  <img src="skills_distribution.png" alt="Rajay's Data Analytics Skills Chart" width="46%" />
-</p> 
-
----
-
 ### 📜 Certifications
 
 🏅 [Microsoft Power BI Data Analyst](https://coursera.org/share/dd4948e7bc59c858df5fbcd702e8c7b7)  
@@ -116,10 +107,11 @@ Here is a look at what I've been building across my 10 repositories:
 
 ---
 
-### 📈 Contribution Graph
+
+<h2>📊 Skill Distribution & Ecosystem</h2>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajayJain&theme=tokyo-night"/>
+  <img src="https://raw.githubusercontent.com/RajayJain/Assets/main/Skills_Distribution.png" width="75%" />
 </p>
 
 ---
