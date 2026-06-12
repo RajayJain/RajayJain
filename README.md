@@ -111,7 +111,7 @@ Here is a look at what I've been building across my 10 repositories:
 <h2>📊 Skill Distribution & Ecosystem</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RajayJain/Assets/main/Skills_Distribution.png" width="75%" />
+  <img src="Skills_Distribution.png" width="75%" />
 </p>
 
 ---
