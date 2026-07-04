@@ -68,7 +68,7 @@ Here is a look at what I've been building across my 10 repositories:
 
 ---
 
-## 📈 Power BI Data Analytics
+## 📈 Global Salary Market Analysis
 🔗 [View It Here 🔎](https://github.com/RajayJain/Power_BI_Data_Analytics)
 
 - Designed and developed multiple end-to-end Power BI solutions covering data extraction, transformation, modeling, and business reporting.
@@ -78,7 +78,7 @@ Here is a look at what I've been building across my 10 repositories:
 
 ---
 
-## 🏪 Walmart Sales Data Analysis
+## 🏪 Predictive Sales Data Intelligence
 🔗 [View It Here 🔎](https://github.com/RajayJain/Walmart_Sales_Data_Analysis)
 
 - Analyzed **1,000+ customer transactions** across multiple Walmart branches to evaluate revenue performance and consumer purchasing behavior.
@@ -95,6 +95,15 @@ Here is a look at what I've been building across my 10 repositories:
 - Built a fully interactive Excel dashboard using **Pivot Tables, Power Query, Slicers, and Dynamic Charts** to visualize compensation trends.
 - Automated data preparation and transformation workflows, reducing manual analysis effort by approximately **80%**.
 - Generated insights into salary benchmarks, high-paying skills, and regional compensation differences within the data analytics industry.
+
+---
+
+## 📝 Market Intelligence Architecture
+🔗 [View It Here 🔎](https://github.com/RajayJain/Market-Intelligence-Architecture)
+- **Peak Remote Salary Identified: $650,000** (Top-tier remote Data Analyst roles).
+- **High-Compensation Salary Floor: $184,000** minimum threshold for the top 10 highest-paying roles.
+- **Top-Paying Skill Premium: Up to $208,172** average yearly salary for specialized data pipeline skills (PySpark).
+- **Core Skill Market Baseline:** Highly demanded programming skills (Python, R) maintain an average baseline salary of **~$101,000**.
 
 ---
 
